@@ -1,2 +1,1 @@
-# macroshambo.github.io
-website
+# web
